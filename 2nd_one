@@ -1,0 +1,6 @@
+num=(input("enter the num"))
+num1=(input("enter the num1"))
+if(num>num1):
+print("enter the num is greater",num)
+else
+print("enter the num  is gretaer",num)
